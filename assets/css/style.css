@@ -1,0 +1,9 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.contact-navigation {
+    display: inline;
+    position:fixed;
+    left: 1500px
+}
