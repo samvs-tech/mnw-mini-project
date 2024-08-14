@@ -1,9 +1,60 @@
 * {
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.contact-navigation {
-    display: inline;
-    position:fixed;
-    left: 1500px
+
+#bcg {
+    background-color: darkgreen;
+    top: 0px;
+    width: 10px;
+    left: 100%;
+    text-align: ;
 }
+
+h1 {
+    text-align: center;
+    background-color: white;
+    
+
+
+}
+
+section {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 10px;
+}
+
+footer {
+    text-align: center;
+
+}
+
+
+.contact-navigation {
+    position: absolute;
+    
+    background-color: coral;
+    width: 100%;
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+.contact-section {
+    text-align: center;
+}
+
+#contact-form-1 {
+    text-align: center;
+    list-style-type: none;
+}
+
+#contact-form-2 {
+    text-align: center;
+    list-style-type: none;
+}
+
